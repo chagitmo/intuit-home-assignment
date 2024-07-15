@@ -1,0 +1,10 @@
+version: '3'
+services:
+  client:
+    image: hagitshmueli/client-app
+    ports:
+      - "3000:3000"
+  server:
+    image: hagitshmueli/server-app
+    ports:
+      - "5000:5000"
