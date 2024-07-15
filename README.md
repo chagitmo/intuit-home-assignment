@@ -1,5 +1,3 @@
-
-```markdown
 # Intuit Home Assignment - Client
 
 This is the client component for the Intuit home assignment. 
