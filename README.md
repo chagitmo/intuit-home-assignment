@@ -18,8 +18,8 @@ It provides a responsive web application that displays a list of photographers.
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>/client
+git clone https://github.com/chagitmo/photographers-client.git
+cd photographers-client
 ```
 
 2. Install the dependencies:
